@@ -42,17 +42,9 @@ especialmente em eventos esportivos, dificulta a entrega das imagens aos cliente
 
 forma organizada e segura.
 
-**Segurança das Imagens:** Marcelo precisa proteger suas imagens com marca
-
-d'água, garantindo que não sejam usadas indevidamente até a confirmação do
+**Segurança das Imagens:** Marcelo precisa proteger suas imagens, garantindo que não sejam usadas indevidamente até a confirmação do
 
 pagamento pelos clientes.
-
-**Experiência do Cliente:** Os clientes precisam de um sistema fácil e acessível, que
-
-permita visualizar, agendar e comprar fotos com poucos cliques, sem complicações
-
-técnicas.
 
 **Falta de Relatórios e Gestão Financeira:** Marcelo carece de uma solução
 
@@ -125,13 +117,13 @@ atividades recentes e acessar facilmente as sessões de fotos de cada evento esp
 
 **Página atualização do cliente**
 
-texto aqui
+Nessa página o cliente terá acesso sobre atualizações de eventos, oportunidades e fotos.
 
 ![WhatsApp Image 2024-11-18 at 20 10 29](https://github.com/user-attachments/assets/e8b6eac7-b400-47c4-90c0-d03d85af3d85)
 
 **Página Dashboard Admin**
 
-texto aqui
+Nessa página o Admin terá controle sobre o índice de aprovação em eventos e faturamentos.
 
 ![Página Eventos Cliente pdf](https://github.com/user-attachments/assets/42fa4886-5100-47ed-80a1-74cc20512746)
 
@@ -215,17 +207,17 @@ para o sucesso do projeto.
 Este projeto foi desenvolvido pelos alunos:
 
 Julimar Junio Freitas Melo, estudante de Análise e desenvolvimento de sistemas da
-UNIVIÇOSA
+UNIVIÇOSA https://github.com/thamelodev
 
 Kayo Salgado Stanciola Mata, Estudante de Análise e desenvolvimento de sistemas da
 
-UNIVIÇOSA
+UNIVIÇOSA https://github.com/KayoStanciola
 
-Matheus Lopes Zinato, Estudante de Análise e desenvolvimento de sistemas da UNIVIÇOSA
+Matheus Lopes Zinato, Estudante de Análise e desenvolvimento de sistemas da UNIVIÇOSA https://github.com/MatheusLZinato
 
 Edson Ramos da Silva Junior, Estudante de Análise e desenvolvimento de sistemas da
 
-UNIVIÇOSA
+UNIVIÇOSA https://github.com/edsonjr1401
 
 Agradecimento também ao aluno Augusto Magno, que ingressou neste projeto junto
 
