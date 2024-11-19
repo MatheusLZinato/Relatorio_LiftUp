@@ -96,21 +96,6 @@ principal interesse do nosso cliente. Marcelo terá controle sobre o upload e ve
 fotos, enquanto os usuários poderão adquirir imagens específicas de eventos. Abaixo,
 descrevemos o propósito e o funcionamento de cada tela criada no Figma.
 
-A **Tela de Eventos** foi projetada para listar todos os eventos fotografados e permitir
-que o usuário final explore as fotografias capturadas. Em cada evento, há informações
-como nome, data, localização e disponibilidade de fotos. Ao clicar em um evento
-específico, o usuário é redirecionado para uma galeria onde pode ver as imagens em
-detalhe e optar pela compra de imagens específicas ou de pacotes. Essa tela foi
-planejada para organizar o conteúdo de maneira prática, facilitando a navegação entre
-eventos.
-
-Por fim, a **Tela de Compras e Fotos Adquiridas** foi pensada para armazenar o
-histórico de aquisições dos usuários, oferecendo acesso rápido às fotos que já foram
-compradas. Além disso, uma opção de "Fotos onde estou" foi incluída, permitindo que
-os usuários filtrem as imagens em que aparecem, uma funcionalidade especialmente
-útil para o público-alvo, que frequentemente busca por fotos pessoais em eventos
-esportivos.
-
 Com esse wireframe no Figma, criamos uma base sólida e intuitiva para o aplicativo, pronta para evoluir conforme as necessidades de Marcelo e de seus clientes, proporcionando uma experiência de navegação clara e objetiva.
 
 ![WhatsApp Image 2024-11-18 at 20 10 29 (2)](https://github.com/user-attachments/assets/5aceff73-79c0-4621-b1cf-c1d5b5bf3b6b)
@@ -148,23 +133,32 @@ texto aqui
 
 texto aqui
 
-![Página Eventos Cliente pdf](https://github.com/user-attachments/assets/42fa4886-5100-47ed-80a1-74cc20512746) ![Página Eventos Comprar Foto Cliente pdf](https://github.com/user-attachments/assets/f78b2273-2a79-4876-b969-b66fa3ff009a)
+![Página Eventos Cliente pdf](https://github.com/user-attachments/assets/42fa4886-5100-47ed-80a1-74cc20512746)
 
 **Página eventos cliente**
-
-texto aqui
 
 ![Página Eventos Comprar Foto Cliente pdf](https://github.com/user-attachments/assets/f78b2273-2a79-4876-b969-b66fa3ff009a)
 
 **Página eventos comprar foto cliente**
 
-texto aqui
+A **Tela de Eventos** foi projetada para listar todos os eventos fotografados e permitir
+que o usuário final explore as fotografias capturadas. Em cada evento, há informações
+como nome, data, localização e disponibilidade de fotos. Ao clicar em um evento
+específico, o usuário é redirecionado para uma galeria onde pode ver as imagens em
+detalhe e optar pela compra de imagens específicas ou de pacotes. Essa tela foi
+planejada para organizar o conteúdo de maneira prática, facilitando a navegação entre
+eventos.
 
 ![Página Fotos Compradas Cliente pdf](https://github.com/user-attachments/assets/5f3e16a0-24fd-4269-99e3-3e5979b231e7)
 
 **Página fotos compradas cliente**
 
-texto aqui
+Por fim, a **Tela de Compras e Fotos Adquiridas** foi pensada para armazenar o
+histórico de aquisições dos usuários, oferecendo acesso rápido às fotos que já foram
+compradas. Além disso, uma opção de "Fotos onde estou" foi incluída, permitindo que
+os usuários filtrem as imagens em que aparecem, uma funcionalidade especialmente
+útil para o público-alvo, que frequentemente busca por fotos pessoais em eventos
+esportivos.
 
 ## PROTÓTIPO DE ALTA FIDELIDADE
 
