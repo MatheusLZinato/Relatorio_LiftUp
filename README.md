@@ -133,7 +133,7 @@ Nessa página o Admin terá controle sobre o índice de aprovação em eventos e
 
 **Página eventos comprar foto cliente**
 
-A **Tela de Eventos** foi projetada para listar todos os eventos fotografados e permitir
+As **Telas de Eventos** foram projetadas para listar todos os eventos fotografados e permitir
 que o usuário final explore as fotografias capturadas. Em cada evento, há informações
 como nome, data, localização e disponibilidade de fotos. Ao clicar em um evento
 específico, o usuário é redirecionado para uma galeria onde pode ver as imagens em
