@@ -4,38 +4,11 @@
 
 ## O Desafio
 
-O desafio principal é criar uma plataforma digital que atenda às necessidades
-
-específicas do fotógrafo Marcelo, permitindo que ele gerencie seu portfólio, eventos e
-
-clientes de forma eficiente. O sistema precisa ser intuitivo tanto para o fotógrafo
-
-quanto para os clientes, oferecendo uma experiência otimizada, segura e responsiva.
-
-Além disso, o site deve incorporar funcionalidades técnicas avançadas, como
-
-reconhecimento facial e controle de direitos autorais sobre as fotografias, sem
-
-comprometer a simplicidade de uso.
+O desafio principal é criar uma plataforma digital que atenda às necessidades específicas do fotógrafo Marcelo, permitindo que ele gerencie seu portfólio, eventos e clientes de forma eficiente. O sistema precisa ser intuitivo tanto para o fotógrafo quanto para os clientes, oferecendo uma experiência otimizada, segura e responsiva. Além disso, o site deve incorporar funcionalidades técnicas avançadas, como reconhecimento facial e controle de direitos autorais sobre as fotografias, sem comprometer a simplicidade de uso.
 
 ## Contexto
 
-Marcelo é um fotógrafo profissional que trabalha com uma variedade de eventos e
-
-sessões fotográficas. Ele precisa de um site que sirva não apenas como portfólio, mas
-
-também como uma plataforma de gerenciamento completa para seus serviços e
-
-interações com os clientes. Com uma demanda crescente, o fotógrafo deseja uma
-
-solução centralizada que automatize processos, como a marcação de eventos, o
-
-faturamento e o controle de fotos protegidas por marca d'água. O objetivo é garantir
-
-
-que sua operação funcione sem falhas, enquanto o site oferece aos clientes uma
-
-experiência fluida para contratar serviços e adquirir fotografias.
+Marcelo é um fotógrafo profissional que trabalha com uma variedade de eventos e sessões fotográficas. Ele precisa de um site que sirva não apenas como portfólio, mas também como uma plataforma de gerenciamento completa para seus serviços e interações com os clientes. Com uma demanda crescente, o fotógrafo deseja uma solução centralizada que automatize processos, como a marcação de eventos, o faturamento e o controle de fotos protegidas por marca d'água. O objetivo é garantir que sua operação funcione sem falhas, enquanto o site oferece aos clientes uma experiência fluida para contratar serviços e adquirir fotografias.
 
 ## WHY
 
@@ -88,35 +61,7 @@ centralizada para visualizar o faturamento e monitorar pagamentos.
 
 ## Storytelling
 
-Marcelo, um fotógrafo apaixonado por capturar momentos únicos, vinha se sentindo
-
-sobrecarregado ao tentar equilibrar sua arte com as demandas administrativas de seu
-
-negócio. A cada novo evento, seja uma corrida esportiva ou uma festa corporativa, ele
-
-enfrentava o desafio de gerenciar milhares de fotos, garantir que cada cliente recebesse
-
-suas imagens e manter a segurança dos arquivos.
-
-Ele percebeu que, com o aumento da sua clientela e das demandas, a necessidade de
-
-uma solução digital era inevitável. Os processos manuais estavam atrasando seu
-
-trabalho e frustrando seus clientes, que esperavam uma experiência mais moderna e
-
-eficiente. Isso o levou a procurar a Lift Up Software House, uma empresa especializada
-
-em soluções tecnológicas para negócios criativos.
-
-Com uma visão clara do que precisava, Marcelo buscava um sistema que não apenas
-
-resolvesse seus problemas operacionais, mas também elevasse seu negócio. Ele queria
-
-mais do que um site bonito; precisava de uma plataforma que permitisse a automação
-
-completa de seus serviços. A solução deveria proteger suas fotos com marcas d'água,
-
-facilitar o agendamento de sessões e eventos, gerenciar pagamentos e claro, oferecer
+Marcelo, um fotógrafo apaixonado por capturar momentos únicos, vinha se sentindo sobrecarregado ao tentar equilibrar sua arte com as demandas administrativas de seu negócio. A cada novo evento, seja uma corrida esportiva ou uma festa corporativa, ele enfrentava o desafio de gerenciar milhares de fotos, garantir que cada cliente recebesse suas imagens e manter a segurança dos arquivos. Ele percebeu que, com o aumento da sua clientela e das demandas, a necessidade de uma solução digital era inevitável. Os processos manuais estavam atrasando seu trabalho e frustrando seus clientes, que esperavam uma experiência mais moderna e eficiente. Isso o levou a procurar a Lift Up Software House, uma empresa especializada em soluções tecnológicas para negócios criativos. Com uma visão clara do que precisava, Marcelo buscava um sistema que não apenas resolvesse seus problemas operacionais, mas também elevasse seu negócio. Ele queria mais do que um site bonito; precisava de uma plataforma que permitisse a automação completa de seus serviços. A solução deveria proteger suas fotos com marcas d'água, facilitar o agendamento de sessões e eventos, gerenciar pagamentos e claro, oferecer
 
 ## uma experiência incrível para seus clientes.
 
@@ -126,9 +71,7 @@ facilitar o agendamento de sessões e eventos, gerenciar pagamentos e claro, ofe
 
 ![Blue and White Modern Modern Buyer Persona Brainstorm](https://github.com/user-attachments/assets/d816a3c7-4424-4742-943b-e9e015bafcc6)
 
-Com base nas hipóteses, storytelling e pesquisa com usuários, as personas foram
-
-criadas para representar os usuários que irão utilizar o produto:
+Com base nas hipóteses, storytelling e pesquisa com usuários, as personas foram criadas para representar os usuários que irão utilizar o produto:
 
 
 ## MAPA DE EMPATIA
@@ -139,11 +82,7 @@ criadas para representar os usuários que irão utilizar o produto:
 
 ![A identidade visual da empresa Zinato Fotografia pois foi escolha do cliente, além disso as cores também foram mantidas e utilizamos o trabalho feito por um designer anteriormente e adaptamos esse](https://github.com/user-attachments/assets/9f98addf-f902-492a-9390-9efc409961cc)
 
-Para a identidade visual do sistema mantivemos a identidade visual já criada
-
-anteriormente para a empresa Zinato Fotografia, a qual foi disponibilizada pelo cliente
-
-e foi adaptado para o projeto “Sistema de vendas para a empresa Zinato Fotografia”.
+Para a identidade visual do sistema mantivemos a identidade visual já criada anteriormente para a empresa Zinato Fotografia, a qual foi disponibilizada pelo cliente e foi adaptado para o projeto “Sistema de vendas para a empresa Zinato Fotografia”.
 
 ## WIREFRAME
 
@@ -189,11 +128,7 @@ os usuários filtrem as imagens em que aparecem, uma funcionalidade especialment
 esportivos.
 
 
-Com esse wireframe no Figma, criamos uma base sólida e intuitiva para o aplicativo,
-
-pronta para evoluir conforme as necessidades de Marcelo e de seus clientes,
-
-proporcionando uma experiência de navegação clara e objetiva.
+Com esse wireframe no Figma, criamos uma base sólida e intuitiva para o aplicativo, pronta para evoluir conforme as necessidades de Marcelo e de seus clientes, proporcionando uma experiência de navegação clara e objetiva.
 
 **Tela de Login, Cadastro, Código de Segurança:**
 
