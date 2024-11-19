@@ -97,14 +97,6 @@ principal interesse do nosso cliente. Marcelo terá controle sobre o upload e ve
 fotos, enquanto os usuários poderão adquirir imagens específicas de eventos. Abaixo,
 descrevemos o propósito e o funcionamento de cada tela criada no Figma.
 
-A primeira tela, chamada **Tela de Login e Cadastro** , serve como a porta de entrada
-para os usuários do aplicativo. Nela, os usuários podem criar uma conta ou acessar o
-aplicativo com credenciais previamente cadastradas. Campos básicos, como email e
-senha, foram inseridos, assim como uma opção de recuperação de senha para facilitar
-o acesso contínuo. Esta tela é essencial para a segurança e personalização, garantindo
-que cada usuário tenha um perfil único no aplicativo, de forma que o conteúdo e
-histórico de compras sejam exclusivos.
-
 Seguindo o fluxo, a **Tela Inicial do Fotógrafo** foi criada especificamente para
 Marcelo, proporcionando uma visão geral de sua performance e atividades recentes.
 Nessa tela, ele encontra informações de faturamento, número de fotos carregadas e
@@ -127,31 +119,51 @@ os usuários filtrem as imagens em que aparecem, uma funcionalidade especialment
 útil para o público-alvo, que frequentemente busca por fotos pessoais em eventos
 esportivos.
 
-
 Com esse wireframe no Figma, criamos uma base sólida e intuitiva para o aplicativo, pronta para evoluir conforme as necessidades de Marcelo e de seus clientes, proporcionando uma experiência de navegação clara e objetiva.
+
+![WhatsApp Image 2024-11-18 at 20 10 29 (2)](https://github.com/user-attachments/assets/5aceff73-79c0-4621-b1cf-c1d5b5bf3b6b)
 
 **Tela de Login, Cadastro, Código de Segurança:**
 
+A primeira tela, chamada **Tela de Login e Cadastro** , serve como a porta de entrada
+para os usuários do aplicativo. Nela, os usuários podem criar uma conta ou acessar o
+aplicativo com credenciais previamente cadastradas. Campos básicos, como email e
+senha, foram inseridos, assim como uma opção de recuperação de senha para facilitar
+o acesso contínuo. Esta tela é essencial para a segurança e personalização, garantindo
+que cada usuário tenha um perfil único no aplicativo, de forma que o conteúdo e
+histórico de compras sejam exclusivos.
+
+![WhatsApp Image 2024-11-18 at 20 10 29 (1)](https://github.com/user-attachments/assets/01b635b9-f723-4070-b8dc-4755c13ec725)
+
 **Página atualização do cliente:**
 
+texto aqui
 
-**Tela Inicial do Fotógrafo:**
-
+![WhatsApp Image 2024-11-18 at 20 10 29](https://github.com/user-attachments/assets/e8b6eac7-b400-47c4-90c0-d03d85af3d85)
 
 **Página Dashboard Admin:**
 
+texto aqui
+
+![Página Eventos Cliente pdf](https://github.com/user-attachments/assets/42fa4886-5100-47ed-80a1-74cc20512746)
 
 **Página eventos cliente:**
 
+texto aqui
+
+![Página Eventos Comprar Foto Cliente pdf](https://github.com/user-attachments/assets/f78b2273-2a79-4876-b969-b66fa3ff009a)
 
 **Página eventos comprar foto cliente:**
 
+texto aqui
+
+![Página Fotos Compradas Cliente pdf](https://github.com/user-attachments/assets/5f3e16a0-24fd-4269-99e3-3e5979b231e7)
 
 **Página fotos compradas cliente:**
 
+texto aqui
 
 ## PROTÓTIPO DE ALTA FIDELIDADE
-
 
 Desenvolvemos um protótipo de alta fidelidade para a Zinato Fotografia, utilizando o
 Figma como ferramenta principal. Esse processo permitiu transformar as ideias
@@ -165,7 +177,7 @@ interação com o protótipo e explorar todas as suas funcionalidades de forma o
 
 Protótipo de alta fidelidade:
 
-https://www.figma.com/proto/NQyioOhu3M8SYdl1xoFNNm/Liftup-Telas?node-id=124-275&node-type=canvas&t=gSJxAb2ZWlFBFbSw-1&scaling=scale-down&content-scaling=fixed&page-id=0:1&starting-point-node-id=124:275
+(https://www.figma.com/proto/NQyioOhu3M8SYdl1xoFNNm/Liftup-Telas?node-id=124-275&node-type=canvas&t=gSJxAb2ZWlFBFbSw-1&scaling=scale-down&content-scaling=fixed&page-id=0:1&starting-point-node-id=124:275)
 
 ## PROCESSO CONTÍNUO
 
@@ -205,16 +217,16 @@ para o sucesso do projeto.
 
 Este projeto foi desenvolvido pelos alunos:
 
-Julimar Junio Freitas Melo, Estudante de Desenvolvimento de Software da
+Julimar Junio Freitas Melo, estudante de Análise e desenvolvimento de sistemas da
 UNIVIÇOSA
 
-Kayo Salgado Stanciola Mata, Estudante de Desenvolvimento de Software da
+Kayo Salgado Stanciola Mata, Estudante de Análise e desenvolvimento de sistemas da
 
 UNIVIÇOSA
 
-Matheus Lopes Zinato, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+Matheus Lopes Zinato, Estudante de Análise e desenvolvimento de sistemas da UNIVIÇOSA
 
-Edson Ramos da Silva Junior, Estudante de Desenvolvimento de Software da
+Edson Ramos da Silva Junior, Estudante de Análise e desenvolvimento de sistemas da
 
 UNIVIÇOSA
 
