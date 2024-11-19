@@ -165,8 +165,7 @@ interação com o protótipo e explorar todas as suas funcionalidades de forma o
 
 Protótipo de alta fidelidade:
 
-https://www.figma.com/design/NQyioOhu3M8SYdl1xoFNNm/Liftup-Telas?node-id=0-
-1&node-type=canvas&t=yySdzvLTp9BMmLI7- 0
+https://www.figma.com/proto/NQyioOhu3M8SYdl1xoFNNm/Liftup-Telas?node-id=124-275&node-type=canvas&t=gSJxAb2ZWlFBFbSw-1&scaling=scale-down&content-scaling=fixed&page-id=0:1&starting-point-node-id=124:275
 
 ## PROCESSO CONTÍNUO
 
