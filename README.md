@@ -135,31 +135,31 @@ histórico de compras sejam exclusivos.
 
 ![WhatsApp Image 2024-11-18 at 20 10 29 (1)](https://github.com/user-attachments/assets/01b635b9-f723-4070-b8dc-4755c13ec725)
 
-**Página atualização do cliente:**
+**Página atualização do cliente**
 
 texto aqui
 
 ![WhatsApp Image 2024-11-18 at 20 10 29](https://github.com/user-attachments/assets/e8b6eac7-b400-47c4-90c0-d03d85af3d85)
 
-**Página Dashboard Admin:**
+**Página Dashboard Admin**
 
 texto aqui
 
 ![Página Eventos Cliente pdf](https://github.com/user-attachments/assets/42fa4886-5100-47ed-80a1-74cc20512746)
 
-**Página eventos cliente:**
+**Página eventos cliente**
 
 texto aqui
 
 ![Página Eventos Comprar Foto Cliente pdf](https://github.com/user-attachments/assets/f78b2273-2a79-4876-b969-b66fa3ff009a)
 
-**Página eventos comprar foto cliente:**
+**Página eventos comprar foto cliente**
 
 texto aqui
 
 ![Página Fotos Compradas Cliente pdf](https://github.com/user-attachments/assets/5f3e16a0-24fd-4269-99e3-3e5979b231e7)
 
-**Página fotos compradas cliente:**
+**Página fotos compradas cliente**
 
 texto aqui
 
