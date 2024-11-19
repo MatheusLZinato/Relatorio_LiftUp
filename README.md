@@ -89,20 +89,12 @@ Para a identidade visual do sistema mantivemos a identidade visual já criada an
 Para o desenvolvimento do wireframe do aplicativo de fotografia do fotógrafo Marcelo,
 utilizamos o Figma como ferramenta de design, permitindo a construção visual das
 
-
 telas do aplicativo de maneira interativa e colaborativa. A estrutura do wireframe foi
 projetada para maximizar a facilidade de uso, focando na experiência do usuário e na
 funcionalidade voltada à comercialização de fotografias de eventos esportivos, que é o
 principal interesse do nosso cliente. Marcelo terá controle sobre o upload e venda de
 fotos, enquanto os usuários poderão adquirir imagens específicas de eventos. Abaixo,
 descrevemos o propósito e o funcionamento de cada tela criada no Figma.
-
-Seguindo o fluxo, a **Tela Inicial do Fotógrafo** foi criada especificamente para
-Marcelo, proporcionando uma visão geral de sua performance e atividades recentes.
-Nessa tela, ele encontra informações de faturamento, número de fotos carregadas e
-índice de aprovação em eventos, fornecendo um resumo de suas métricas e sucesso na
-plataforma. Também há uma seção de "Eventos" em que Marcelo pode visualizar as
-atividades recentes e acessar facilmente as sessões de fotos de cada evento específico.
 
 A **Tela de Eventos** foi projetada para listar todos os eventos fotografados e permitir
 que o usuário final explore as fotografias capturadas. Em cada evento, há informações
@@ -133,6 +125,17 @@ o acesso contínuo. Esta tela é essencial para a segurança e personalização,
 que cada usuário tenha um perfil único no aplicativo, de forma que o conteúdo e
 histórico de compras sejam exclusivos.
 
+![Página Dashboard Fotos Compradas Admin pdf](https://github.com/user-attachments/assets/cfbce1f8-99d5-448d-a8af-743aded5345e)
+
+**Tela inicial do fotógrafo**
+
+Seguindo o fluxo, a **Tela Inicial do Fotógrafo** foi criada especificamente para
+Marcelo, proporcionando uma visão geral de sua performance e atividades recentes.
+Nessa tela, ele encontra informações de faturamento, número de fotos carregadas e
+índice de aprovação em eventos, fornecendo um resumo de suas métricas e sucesso na
+plataforma. Também há uma seção de "Eventos" em que Marcelo pode visualizar as
+atividades recentes e acessar facilmente as sessões de fotos de cada evento específico.
+
 ![WhatsApp Image 2024-11-18 at 20 10 29 (1)](https://github.com/user-attachments/assets/01b635b9-f723-4070-b8dc-4755c13ec725)
 
 **Página atualização do cliente**
@@ -145,7 +148,7 @@ texto aqui
 
 texto aqui
 
-![Página Eventos Cliente pdf](https://github.com/user-attachments/assets/42fa4886-5100-47ed-80a1-74cc20512746)
+![Página Eventos Cliente pdf](https://github.com/user-attachments/assets/42fa4886-5100-47ed-80a1-74cc20512746) ![Página Eventos Comprar Foto Cliente pdf](https://github.com/user-attachments/assets/f78b2273-2a79-4876-b969-b66fa3ff009a)
 
 **Página eventos cliente**
 
