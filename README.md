@@ -186,6 +186,41 @@ Vídeo explicativo produto final:
 
 https://drive.google.com/drive/folders/1isMGDLUuc17Y3hAVHfhH696BzjH3C6H
 
+## Criação e Estruturação do Banco de Dados
+
+Nesta etapa, foi desenvolvido o modelo relacional que sustenta todo o sistema. Definimos as tabelas principais (como usuário, perfil, histórico, transações, etc.)
+, estabelecemos os relacionamentos (1‑para‑muitos, muitos‑para‑muitos quando necessário) e incluímos índices para otimizar pesquisas por chaves primárias e estrangeiras.
+Também configuramos restrições de integridade para garantir consistência dos dados. Finalizamos com o populamento inicial de dados de teste, simulando cenários reais de uso.
+
+## Atualizações e Desenvolvimento do Sistema (Implementação)
+
+Embora o sistema ainda não esteja totalmente desenvolvido, importantes etapas da implementação já estão em andamento.
+A seguir, as principais atualizações realizadas até o momento:Normalização refinada: migramos campos duplicados e criamos tabelas auxiliares para reduzir redundância.
+Triggers e stored procedures: automatizamos cálculos e atualizações de status, garantindo processos automáticos ao inserir ou alterar dados.
+Migrações versionadas: criamos scripts SQL organizados cronologicamente para permitir rollback e controle de versões do banco durante o desenvolvimento.
+A implementação das funcionalidades está sendo adiantada de forma gradual, priorizando os módulos mais essenciais para o funcionamento mínimo do sistema.
+
+![Bando de Dados Zinato_Fotografia](file:///C:/Users/losbi/Downloads/Bancodedados_ZINATO.jpeg)
+
+## Lições Aprendidas
+
+Durante o desenvolvimento, identificamos insights valiosos:A importância de planejar o schema com visão de longo prazo evita reestruturações complexas.
+Testes de carga revelaram gargalos em consultas mal indexadas.A prática de refatorar o banco conforme novas funcionalidades garante mais organização e evita dívidas técnicas.
+Registro de alterações (changelog) agilizou o entendimento do histórico durante revisões e auditorias.
+
+## Revisão de Sprints Anteriores
+
+Analisamos os ciclos anteriores de desenvolvimento para avaliar performance e cumprimento de metas:Cada sprint teve suas histórias de usuário avaliadas, com status e impedimentos documentados.
+Verificamos acompanhamento de métricas (ex: quantidade de registros criados, tempo médio de resposta de consultas).Durante as demos,
+recebemos feedbacks de stakeholders que inspiraram ajustes no schema e funcionalidades.Priorizamos correções urgentes e planejamos funcionalidades futuras com base nas lições aprendidas.
+
+## Atualização do Protótipo
+
+Com o banco e funcionalidades mais estáveis, avançamos no protótipo:Fizemos ajustes na interface para refletir os novos relacionamentos de dados
+(e.g., seleção de perfil vinculada ao usuário).Incluímos componentes para exibir dados históricos, com filtros e ordenação.Criamos mockups com telas
+simulando inserção de registros via interface, mostrando interações com o banco em tempo real.Os testes internos confirmaram
+fluxo consistente: desde a criação de entidades até a visualização de relatórios, todos conectados à estrutura de dados.
+
 ## CONCLUSÃO
 
 Com este projeto, encerramos o Projeto Integrador, organizado pela professora e
