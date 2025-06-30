@@ -192,6 +192,8 @@ Nesta etapa, foi desenvolvido o modelo relacional que sustenta todo o sistema. D
 , estabelecemos os relacionamentos (1‑para‑muitos, muitos‑para‑muitos quando necessário) e incluímos índices para otimizar pesquisas por chaves primárias e estrangeiras.
 Também configuramos restrições de integridade para garantir consistência dos dados. Finalizamos com o populamento inicial de dados de teste, simulando cenários reais de uso.
 
+![Bancodedados_ZINATO](https://github.com/user-attachments/assets/c3af07d5-0f02-44ce-bbf7-2592bd658fcc)
+
 ## Atualizações e Desenvolvimento do Sistema (Implementação)
 
 Embora o sistema ainda não esteja totalmente desenvolvido, importantes etapas da implementação já estão em andamento.
@@ -199,8 +201,6 @@ A seguir, as principais atualizações realizadas até o momento:Normalização 
 Triggers e stored procedures: automatizamos cálculos e atualizações de status, garantindo processos automáticos ao inserir ou alterar dados.
 Migrações versionadas: criamos scripts SQL organizados cronologicamente para permitir rollback e controle de versões do banco durante o desenvolvimento.
 A implementação das funcionalidades está sendo adiantada de forma gradual, priorizando os módulos mais essenciais para o funcionamento mínimo do sistema.
-
-![Bando de Dados Zinato_Fotografia](file:///C:/Users/losbi/Downloads/Bancodedados_ZINATO.jpeg)
 
 ## Lições Aprendidas
 
